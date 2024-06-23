@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg height="441.80mm" viewBox="0.0 0.0 374.20 441.80" width="374.20mm" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<!--
+TrayInsert - Tray insert without floor and outer walls - allows only continuous walls
+
+Created with Boxes.py (https://boxes.hackerspace-bamberg.de/)
+Creation date: 2024-06-23 18:00:30
+Command line (remove spaces between dashes): boxes TrayInsert '- -sx=127*2' '- -sy=118*3' - -h=135 - -thickness=4.0
+Url: http://boxes.hackerspace-bamberg.de/boxes.py/TrayInsert?sx=127*2&sy=118*3&h=135&outside=0&outside=1&thickness=4.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=de&render=2
+Url short: http://boxes.hackerspace-bamberg.de/boxes.py/TrayInsert?sx=127*2&sy=118*3&h=135&thickness=4.0
+SettingsUrl: http://boxes.hackerspace-bamberg.de/boxes.py/TrayInsert?sx=127*2&sy=118*3&h=135&outside=0&outside=1&thickness=4.0&format=svg&tabs=0.0&qr_code=0&debug=0&labels=0&labels=1&reference=100&inner_corners=loop&burn=0.1&language=de&render=2
+SettingsUrl short: http://boxes.hackerspace-bamberg.de/boxes.py/TrayInsert?sx=127*2&sy=118*3&h=135&thickness=4.0
+-->
+<title>TrayInsert</title>
+<metadata>
+<rdf:RDF><cc:Work>
+<dc:title>Tray - TrayInsert</dc:title>
+<dc:date>2024-06-23 18:00:30</dc:date>
+<dc:source>http://boxes.hackerspace-bamberg.de/boxes.py/TrayInsert?sx=127*2&amp;sy=118*3&amp;h=135&amp;outside=0&amp;outside=1&amp;thickness=4.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=2</dc:source>
+<dc:source>http://boxes.hackerspace-bamberg.de/boxes.py/TrayInsert?sx=127*2&amp;sy=118*3&amp;h=135&amp;thickness=4.0</dc:source>
+<dc:description>Tray insert without floor and outer walls - allows only continuous walls
+
+Created with Boxes.py (https://boxes.hackerspace-bamberg.de/)
+Command line: boxes TrayInsert '--sx=127*2' '--sy=118*3' --h=135 --outside=0 --outside=1 --thickness=4.0 --format=svg --tabs=0.0 --qr_code=0 --debug=0 --labels=0 --labels=1 --reference=100 --inner_corners=loop --burn=0.1
+Command line short: boxes TrayInsert '--sx=127*2' '--sy=118*3' --h=135 --thickness=4.0
+Url: http://boxes.hackerspace-bamberg.de/boxes.py/TrayInsert?sx=127*2&amp;sy=118*3&amp;h=135&amp;outside=0&amp;outside=1&amp;thickness=4.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=2
+Url short: http://boxes.hackerspace-bamberg.de/boxes.py/TrayInsert?sx=127*2&amp;sy=118*3&amp;h=135&amp;thickness=4.0
+SettingsUrl: http://boxes.hackerspace-bamberg.de/boxes.py/TrayInsert?sx=127*2&amp;sy=118*3&amp;h=135&amp;outside=0&amp;outside=1&amp;thickness=4.0&amp;format=svg&amp;tabs=0.0&amp;qr_code=0&amp;debug=0&amp;labels=0&amp;labels=1&amp;reference=100&amp;inner_corners=loop&amp;burn=0.1&amp;language=de&amp;render=2
+SettingsUrl short: http://boxes.hackerspace-bamberg.de/boxes.py/TrayInsert?sx=127*2&amp;sy=118*3&amp;h=135&amp;thickness=4.0
+</dc:description>
+</cc:Work></rdf:RDF></metadata>
+<g id="p-0" style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+  <path d="M 10.100 431.800 H 110.100 V 421.800 H 10.100 V 431.800 Z" stroke="rgb(0,0,0)" stroke-width="0.20" />
+  <text dominant-baseline="hanging" font-size="6px" style="font-family: sans-serif ; font-weight: normal; font-style: normal; fill: rgb(255,0,0)" text-anchor="middle" transform="matrix( 1.000 0.000 0.000 1.000 60.100 423.800 )">100.0mm, burn:0.10mm</text>
+</g>
+<g id="p-1" style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+  <path d="M 10.100 419.600 H 125.433 C 125.489 419.600 125.533 419.555 125.533 419.500 V 352.100 C 125.533 352.000 125.433 352.100 125.533 352.100 H 129.333 C 129.433 352.100 129.333 352.000 129.333 352.100 V 419.500 C 129.333 419.555 129.378 419.600 129.433 419.600 H 244.767 C 244.822 419.600 244.867 419.555 244.867 419.500 V 352.100 C 244.867 352.000 244.767 352.100 244.867 352.100 H 248.667 C 248.767 352.100 248.667 352.000 248.667 352.100 V 419.500 C 248.667 419.555 248.711 419.600 248.767 419.600 H 364.100 C 364.155 419.600 364.200 419.555 364.200 419.500 V 284.500 C 364.200 284.445 364.155 284.400 364.100 284.400 H 10.100 C 10.045 284.400 10.000 284.445 10.000 284.500 V 419.500 C 10.000 419.555 10.045 419.600 10.100 419.600 Z" stroke="rgb(0,0,0)" stroke-width="0.20" />
+</g>
+<g id="p-2" style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+  <path d="M 10.100 282.400 H 264.100 C 264.155 282.400 264.200 282.355 264.200 282.300 V 147.300 C 264.200 147.245 264.155 147.200 264.100 147.200 H 139.100 C 139.045 147.200 139.000 147.245 139.000 147.300 V 214.700 C 139.000 214.800 139.100 214.700 139.000 214.700 H 135.200 C 135.100 214.700 135.200 214.800 135.200 214.700 V 147.300 C 135.200 147.245 135.155 147.200 135.100 147.200 H 10.100 C 10.045 147.200 10.000 147.245 10.000 147.300 V 282.300 C 10.000 282.355 10.045 282.400 10.100 282.400 Z" stroke="rgb(0,0,0)" stroke-width="0.20" />
+</g>
+<g id="p-3" style="fill:none;stroke-linecap:round;stroke-linejoin:round;">
+  <path d="M 10.100 145.200 H 264.100 C 264.155 145.200 264.200 145.155 264.200 145.100 V 10.100 C 264.200 10.045 264.155 10.000 264.100 10.000 H 139.100 C 139.045 10.000 139.000 10.045 139.000 10.100 V 77.500 C 139.000 77.600 139.100 77.500 139.000 77.500 H 135.200 C 135.100 77.500 135.200 77.600 135.200 77.500 V 10.100 C 135.200 10.045 135.155 10.000 135.100 10.000 H 10.100 C 10.045 10.000 10.000 10.045 10.000 10.100 V 145.100 C 10.000 145.155 10.045 145.200 10.100 145.200 Z" stroke="rgb(0,0,0)" stroke-width="0.20" />
+</g>
+</svg>
